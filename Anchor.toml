@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-challenge_note = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+challenge_note = "9a5SvrAssQ5QtJTkSXRZYnedFadBNjpadztEsY6wu3ug"
 
 [registry]
 url = "https://api.apr.dev"
