@@ -13,3 +13,11 @@ pub mod challenge_note {
 
 #[derive(Accounts)]
 pub struct Initialize {}
+
+#[account]
+pub struct Tweet {
+    pub author: Pubkey,
+    pub timestamp: i64,
+    pub topic: String,
+    pub content: String,
+}
